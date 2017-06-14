@@ -1,0 +1,8 @@
+{
+	"model": "turret.obj",
+	"material": "turret.obj",
+	"name": "turret",
+	"type": 3,
+	"health": 20,
+	"placementLevel": 2
+}
