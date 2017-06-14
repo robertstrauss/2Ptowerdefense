@@ -7,3 +7,11 @@ is a game like tower defense, but instead of playing against your computer, you 
 A 3d game built in java.
 
 By russ000 and shelbs
+
+
+Updates:
+
+6/14/17 3:02 shelbs:
+	initalizes program
+	built basic structure of block system
+	modeled a few cheap stand ins, with materials

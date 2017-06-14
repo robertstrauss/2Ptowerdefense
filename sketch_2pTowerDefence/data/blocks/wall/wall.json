@@ -1,0 +1,7 @@
+{
+	"model": "wallSegment1.obj",
+	"material": "wallSegment1.obj",
+	"type": 1,
+	"health": 20,
+	"placementLevel": 2
+}

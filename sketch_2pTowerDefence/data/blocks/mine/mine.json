@@ -1,0 +1,8 @@
+{
+	"model": "mine.obj",
+	"material": "mine.mtl",
+	"name": "mine",
+	"type": 4,
+	"health": 999999,
+	"placementLevel": 1
+}

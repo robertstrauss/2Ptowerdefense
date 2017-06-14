@@ -1,0 +1,8 @@
+{
+	"model": "machinegun.obj",
+	"material": "machinegun.mtl",
+	"name": "machine_gun",
+	"type": 2,
+	"health": 1,
+	"placementLevel": 1
+}

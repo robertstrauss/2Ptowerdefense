@@ -1,0 +1,8 @@
+{
+	"model": "grass1.obj",
+	"material": "grass1.mtl",
+	"name": "ground",
+	"type": 0,
+	"health": 999999,
+	"placementLevel": 0
+}
